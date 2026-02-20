@@ -1,1 +1,2 @@
-console.log("hi this is Nithin kuamr reddy")
+console.log("hi i am Nithin kuamr reddy")
+console .log("i am from kadapa distric")
